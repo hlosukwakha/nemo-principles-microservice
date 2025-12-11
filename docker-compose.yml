@@ -1,0 +1,9 @@
+services:
+  nemo-principle-generator:
+    build: .
+    container_name: nemo-principle-generator
+    env_file:
+      - .env
+    volumes:
+      - ./output:/app/output
+    tty: true

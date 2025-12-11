@@ -1,0 +1,2 @@
+nemo-microservices[data-designer]>=0.1.0
+pandas>=2.0.0
