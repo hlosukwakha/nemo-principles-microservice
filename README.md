@@ -204,6 +204,5 @@ Please refer to the official NVIDIA resources above for full details on:
 
 ## License
 
-Add your preferred license here (e.g., MIT, Apache 2.0) if you plan to publish
-this repository publicly.
+Apache 2.0
 
